@@ -12,6 +12,10 @@ Apenas no Brasil, de janeiro a julho de 2022, foram [mais de 5 milhões de tenta
 
 Dentra essas fraudes, aquelas envolvendo cartões de crédito são de grande relevância uma vez que a sua não-detecção acaretará em prejuízos consideráveis, tanto para o consumidor quanto para a instituição financeira.
 
+Existe uma grande variedade de cenários que podem levar um fraudador a realizar com sucesso pagamentos fraudulentos com cartão de crédito. Atualmente, não há uma taxonomia definida sobre os tipos de fraude de cartão de crédito, embora se saiba que certos padrões ocorrem com mais frequência do que outros.
+
+**É um jogo de gato e rato, onde os padrões fraudulentos mudam ao longo do tempo.**
+
 Um outro fator a ser considerado é a quantidade de falsos positivos, ou seja, aquelas vezes em que você tentou fazer uma compra e teve seu cartão bloqueado preventivamente - o que provavelmente gerou estresse e constrangimento.
 
 Por todos esses motivos, o investimento na área de detecção de fraudes por meio de Inteligência Artificial vem crescendo a cada ano, representando uma grande oportunidade em *Data Science*. 
