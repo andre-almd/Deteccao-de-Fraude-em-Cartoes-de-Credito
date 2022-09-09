@@ -10,7 +10,7 @@ Neste projeto, iremos abordar o problema das fraudes em cartões de crédito, um
 
 Apenas no Brasil, de janeiro a julho de 2022, foram [mais de 5 milhões de tentativas de crimes](https://extra.globo.com/economia-e-financas/brasil-registra-mais-de-mil-tentativas-de-fraudes-financeiras-digitais-por-hora-aponta-pesquisa-25554716.html), contra 2,5 milhões registradas no ano de 2021 — um aumento de 97%. Traduzindo em valores, os [golpes financeiros](https://www.estadao.com.br/economia/golpes-bancarios-geram-prejuizos-no-pais/) devem alcançar a marca de R$2,5 bilhões em 2022.
 
-Dentra essas fraudes, aquelas envolvendo cartões de crédito são de grande relevância uma vez que a sua não-detecção acaretará em prejuízos consideráveis, tanto para o consumidor quanto para a instituição financeira.
+Dentra essas fraudes, aquelas envolvendo cartões de crédito são de grande relevância uma vez que a sua não-detecção acarretará em prejuízos consideráveis, tanto para o consumidor quanto para a instituição financeira.
 
 Existe uma grande variedade de cenários que podem levar um fraudador a realizar com sucesso pagamentos fraudulentos com cartão de crédito. Atualmente, não há uma taxonomia definida sobre os tipos de fraude de cartão de crédito, embora se saiba que certos padrões ocorrem com mais frequência do que outros.
 
